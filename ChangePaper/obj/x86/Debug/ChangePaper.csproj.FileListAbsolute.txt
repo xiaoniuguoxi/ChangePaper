@@ -1,0 +1,16 @@
+E:\项目\ChangePaper\ChangePaper\bin\Debug\ChangePaper.exe
+E:\项目\ChangePaper\ChangePaper\bin\Debug\ChangePaper.pdb
+E:\项目\ChangePaper\ChangePaper\obj\x86\Debug\ChangePaper.Form1.resources
+E:\项目\ChangePaper\ChangePaper\obj\x86\Debug\ChangePaper.Properties.Resources.resources
+E:\项目\ChangePaper\ChangePaper\obj\x86\Debug\ChangePaper.csproj.GenerateResource.Cache
+E:\项目\ChangePaper\ChangePaper\obj\x86\Debug\ChangePaper.exe
+E:\项目\ChangePaper\ChangePaper\obj\x86\Debug\ChangePaper.pdb
+E:\项目\ChangePaper\ChangePaper\obj\x86\Debug\ChangePaper.csprojResolveAssemblyReference.cache
+E:\项目\ChangePaper\ChangePaper\bin\Debug\NAudio.dll
+E:\项目\ChangePaper\ChangePaper\bin\Debug\NAudio.xml
+E:\项目\ChangePaper\ChangePaper\bin\Debug\ChangeResultPack.dll
+E:\项目\ChangePaper\ChangePaper\bin\Debug\ChangeResultPack.pdb
+E:\项目\ChangePaper\ChangePaper\obj\x86\Debug\ChangePaper.SpokenForm.resources
+E:\项目\ChangePaper\ChangePaper\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\项目\ChangePaper\ChangePaper\obj\x86\Debug\ChangePaper.Main.resources
+E:\项目\ChangePaper\ChangePaper\obj\x86\Debug\ChangePaper.UpdatePaper.resources
